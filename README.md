@@ -67,7 +67,7 @@
  ## 📊 My Github Stats
 
  <br />
- <div style="flex justify-content:space-around align-item:center">
+ <div style="flex justify-content:space-between align-item:center">
         <a href="#"><img alt="Ayan's Github Stats"
                         src="https://github-readme-stats.vercel.app/api?username=Ayan-Blufy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a href="#"><img alt="Ayan's Top Languages"
