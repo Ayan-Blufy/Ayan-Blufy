@@ -12,6 +12,12 @@
    - 📫 How to reach me modakayan10@gmail.com
 
    - ⚡ Fun fact I play games and go to the GYM very often.
+   
+   -  💬 &nbsp; Ask me about anything tech related, I am happy to help;
+    
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](#)
+
+- 📝 &nbsp; Checkout my [resume](#)
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="450" height="290" style="max-width: 100%;"></a></p>
 <br>
 <br>
