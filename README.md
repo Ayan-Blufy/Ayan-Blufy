@@ -1,5 +1,5 @@
    
-<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/Developer.gif"><img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/Developer.gif" width="200px" style="max-width: 100%;"></a></p>
+<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Ayan-Blufy"><img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/Developer.gif" width="200px" style="max-width: 100%;"></a></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ayan Modak</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
