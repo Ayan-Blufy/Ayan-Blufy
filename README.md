@@ -9,7 +9,7 @@
 
    - 👯 I’m looking to collaborate on OpenSource Projects
 
-   - 📫 How to reach me modakayan10@gmail.com
+   - 📫 How to reach me modakaryan11@gmail.com
 
    - ⚡ Fun fact I play games and go to the GYM very often.
    
